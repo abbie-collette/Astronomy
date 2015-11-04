@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-var object : Transform;
+/*var object : Transform;
 var clicked = false;
 
 function Click () {
@@ -12,4 +12,4 @@ function Update () {
 	if(clicked){
 		object.GetComponent(OtherScript).activated = true;
 	}
-}
+}*/
