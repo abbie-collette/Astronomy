@@ -46,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Click.cs" />
+     <Compile Include="Assets\ClickManager.cs" />
+     <Compile Include="Assets\MovementManager.cs" />
      <Compile Include="Assets\Orbit.cs" />
      <Compile Include="Assets\Spin.cs" />
  <Reference Include="UnityEngine.UI">
